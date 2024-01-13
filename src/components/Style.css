@@ -1,0 +1,17 @@
+.card-meteo {
+    padding: 20px;
+    font-size: 2vh;
+    
+}
+
+.giorni {
+    font-size: 3vh;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+.titolo {
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
